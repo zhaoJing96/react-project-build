@@ -1,5 +1,5 @@
 import logo from '@/statics/images/logo.svg';
-import '@/statics/css/App.less';
+import '@/statics/css/index.less';
 import { Button } from 'antd';
 import { getImgCode64, LOGINSECRET } from '@/common/api/login';
 import { useEffect } from 'react';
